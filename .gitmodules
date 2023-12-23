@@ -1,0 +1,3 @@
+[submodule "deps/macrostrat-xdd"]
+	path = deps/macrostrat-xdd
+	url = https://github.com/UW-Macrostrat/macrostrat-xdd.git
